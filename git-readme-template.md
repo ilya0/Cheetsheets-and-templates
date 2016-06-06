@@ -2,6 +2,13 @@
 
 One Paragraph of project description goes here
 
+### Overview
+
+Since the begining of time people have wondered, what music are people listening to right now?
+
+![](https://github.com/ilya0/Project-4/blob/master/ERD/enstein.jpg)
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -62,7 +69,7 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
+## Deployment and Using the App
 
 Add additional notes about how to deploy this on a live system
 
@@ -71,6 +78,13 @@ Add additional notes about how to deploy this on a live system
 * Dropwizard - Bla bla bla
 * Maven - Maybe
 * Atom - ergaerga
+
+##Unsolved problems, etc.
+
+* needs description in profiles
+* could use a beutified layout
+* search functionality
+* styling
 
 ## Contributing
 
@@ -82,7 +96,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Ilya Osovets** -- [ilya0](https://github.com/ilya0)
+
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
