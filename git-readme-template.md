@@ -6,7 +6,16 @@ One Paragraph of project description goes here
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+![](https://github.com/ilya0/Project1/blob/master/readme%20files/Main%20setup%20front%20page.png)
+
+Link to [Item](http://ilya0.github.io/Project1)
+
+Link to [Trello](https://trello.com/b/0pPnXkD1/project1-pvp)
+
+
+
 ### Prerequisities
+------
 
 What things you need to install the software and how to install them
 
@@ -15,6 +24,7 @@ Give examples
 ```
 
 ### Installing
+------
 
 A step by step series of examples that tell you have to get a development env running
 
